@@ -1,0 +1,6 @@
+db_server:
+    username: 'kelly'
+    password: 'kelly'
+    host: 'localhost'
+    port: 5432
+    database: 'testdb1'
